@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #ifndef MAIN_H
 #define MAIN_H
 
@@ -22,3 +23,6 @@ void print_to_98(int n);
 void print_time_table(int n);
 
 #endif
+=======
+what
+>>>>>>> d5e4a124b7e8bef210d38260dfdfbe31e0670377
